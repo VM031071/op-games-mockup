@@ -1,8 +1,11 @@
 import { useState, useEffect } from "react";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
-import "./App.css";
+//import "./App.css";
 import axios from "axios";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Home from "./pages/home";
+import Games from "./pages/games";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -20,7 +23,7 @@ function App() {
 
   return (
     <>
-      <div>
+      {/* <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
@@ -42,14 +45,21 @@ function App() {
               <p>
                 {fruit}
               </p>
-              <br></br>
             </div>
           ))
         }
       </div>
+
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
-      </p>
+      </p> */}
+
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/games" element={<Games />} />
+        </Routes>
+      </BrowserRouter>
     </>
   )
 };
