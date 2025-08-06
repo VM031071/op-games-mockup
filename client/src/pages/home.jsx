@@ -8,6 +8,17 @@ function App() {
                     Home Page
                 </h1>
             </div>
+            <div>
+                <button>
+                    <img src="/RBBLogo.png" alt="roller ball battle logo"/>
+                </button>
+                <button>
+                    <img src="/RBBLogo.png" alt="roller ball battle logo"/>
+                </button>
+                <button>
+                    <img src="/RBBLogo.png" alt="roller ball battle logo"/>
+                </button>
+            </div>
         </>
     )
 };
