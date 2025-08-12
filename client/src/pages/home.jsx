@@ -1,26 +1,33 @@
-function App() {
-    console.log("Hello world!");
+import { Link } from 'react-router';
 
-    return (
-        <>
-            <div>
-                <h1>
-                    Home Page
-                </h1>
-            </div>
-            <div>
-                <button>
-                    <img src="/RBBLogo.png" alt="roller ball battle logo"/>
-                </button>
-                <button>
-                    <img src="/RBBLogo.png" alt="roller ball battle logo"/>
-                </button>
-                <button>
-                    <img src="/RBBLogo.png" alt="roller ball battle logo"/>
-                </button>
-            </div>
-        </>
-    )
+function Home() {
+  console.log("Hello world! (Home.jsx)");
+  
+  return (
+    <>
+      <div>
+        <h1>
+          Home Page
+        </h1>
+      </div>
+      
+      <div>
+        <Link to="/games">
+          <button>
+            <img src="/vite.svg" alt="placeholder image"/>
+          </button>
+        </Link>
+        <br></br>
+        <button>
+          <img src="/vite.svg" alt="placeholder image"/>
+        </button>
+        <br></br>
+        <button>
+          <img src="/vite.svg" alt="placeholder image"/>
+        </button>
+      </div>
+    </>
+  );
 };
 
-export default App;
+export default Home;

@@ -4,8 +4,10 @@ import viteLogo from "/vite.svg";
 //import "./App.css";
 import axios from "axios";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./pages/home";
-import Games from "./pages/games";
+import Footer from "./pages/Footer";
+import Games from "./pages/Games";
+import Header from "./pages/Header";
+import Home from "./pages/Home";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -55,13 +57,17 @@ function App() {
       </p> */}
 
       <BrowserRouter>
+        <Header />
+
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/games" element={<Games />} />
         </Routes>
+        
+        <Footer />
       </BrowserRouter>
     </>
-  )
+  );
 };
 
 export default App;
