@@ -6,6 +6,9 @@ import Careers from "./pages/Careers";
 import Contact from "./pages/Contact";
 import FAQ from "./pages/FAQ";
 import Footer from "./pages/Footer";
+import Game1 from "./pages/Game1";
+import Game2 from "./pages/Game2";
+import Game3 from "./pages/Game3";
 import Games from "./pages/Games";
 import Header from "./pages/Header";
 import Home from "./pages/Home";
@@ -40,6 +43,9 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/faq" element={<FAQ />} />
           <Route path="/games" element={<Games />} />
+          <Route path="/games/game1" element={<Game1 />} />
+          <Route path="/games/game2" element={<Game2 />} />
+          <Route path="/games/game3" element={<Game3 />} />
           <Route path="/news" element={<News />} />
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           <Route path="/support" element={<Support />} />
