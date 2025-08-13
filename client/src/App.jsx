@@ -1,13 +1,19 @@
-import { useState, useEffect } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
-//import "./App.css";
 import axios from "axios";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { useState, useEffect } from "react";
+
+import Careers from "./pages/Careers";
+import Contact from "./pages/Contact";
+import FAQ from "./pages/FAQ";
 import Footer from "./pages/Footer";
 import Games from "./pages/Games";
 import Header from "./pages/Header";
 import Home from "./pages/Home";
+import News from "./pages/News";
+import PrivacyPolicy from "./pages/PrivacyPolicy";
+import Support from "./pages/Support";
+import TermsAndConditions from "./pages/TermsAndConditions";
+//import "./App.css";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -25,43 +31,19 @@ function App() {
 
   return (
     <>
-      {/* <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-        {
-          array.map((fruit, index) => (
-            <div key={index}>
-              <p>
-                {fruit}
-              </p>
-            </div>
-          ))
-        }
-      </div>
-
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p> */}
-
       <BrowserRouter>
         <Header />
 
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/careers" element={<Careers />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/faq" element={<FAQ />} />
           <Route path="/games" element={<Games />} />
+          <Route path="/news" element={<News />} />
+          <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+          <Route path="/support" element={<Support />} />
+          <Route path="/terms-and-conditions" element={<TermsAndConditions />} />
         </Routes>
         
         <Footer />

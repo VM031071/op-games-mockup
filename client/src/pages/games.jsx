@@ -8,6 +8,20 @@ function Games() {
 					Games Page
 				</h1>
 			</div>
+
+      <div>
+        <button>
+          <img src="/vite.svg" alt="placeholder image"/>
+        </button>
+        <br></br>
+        <button>
+          <img src="/vite.svg" alt="placeholder image"/>
+        </button>
+        <br></br>
+        <button>
+          <img src="/vite.svg" alt="placeholder image"/>
+        </button>
+      </div>
 		</>
 	);
 };
