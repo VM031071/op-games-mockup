@@ -16,7 +16,7 @@ import News from "./pages/News";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import Support from "./pages/Support";
 import TermsAndConditions from "./pages/TermsAndConditions";
-//import "./App.css";
+import "./App.css";
 
 function App() {
   const [count, setCount] = useState(0);
