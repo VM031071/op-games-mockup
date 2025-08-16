@@ -1,0 +1,10 @@
+.footerRoot {
+  border: 5px solid #303030;
+  flex-wrap: wrap;
+}
+.footerRoot > * {
+  border: 5px solid #606060;
+  display: flex;
+  flex: 1 1 100%;
+  justify-content: center;
+}

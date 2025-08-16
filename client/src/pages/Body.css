@@ -1,8 +1,8 @@
-.appRoot {
+.bodyRoot {
   flex-wrap: wrap;
 }
-.appRoot > * {
-  border: 5px solid #000000;
+.bodyRoot > * {
+  border: 5px solid #303030;
   display: flex;
   flex: 1 1 100%;
   justify-content: center;

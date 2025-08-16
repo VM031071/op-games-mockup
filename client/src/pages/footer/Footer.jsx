@@ -1,11 +1,13 @@
 import { Link } from 'react-router';
 
+import "./Footer.css"
+
 function Footer() {
   console.log("Hello world! (Footer.jsx)");
 
   return (
     <>
-      <div>
+      <div class="footerRoot">
         <h2>
           Footer
         </h2>

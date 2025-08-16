@@ -1,0 +1,23 @@
+.headerRoot {
+  border: 5px solid #303030;
+  display: flex;
+  flex: 1 1 100%;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.headerRoot > * {
+  background-color: #252525;
+  border: 5px solid #404040;
+  display: flex;
+  flex: 0 0 15%;
+  justify-content: center;
+}
+.headerRoot a {
+  color: white;
+  font-size: large;
+  text-decoration: none;
+}
+.headerRoot a:hover {
+  background-color: white;
+  color: black;
+}

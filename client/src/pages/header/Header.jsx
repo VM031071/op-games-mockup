@@ -1,36 +1,32 @@
 import { Link } from 'react-router';
 
+import "./Header.css";
+
 function Header() {
   console.log("Hello world! (Header.jsx)");
 
   return (
     <>
-      <div>
-        <h2>
-          Header
-        </h2>
-      </div>
-
-      <div>
+      <div class="headerRoot">
         <Link to='/'>
-          <h3>
+          <p>
             <b>Home</b>
-          </h3>
+          </p>
         </Link>
         <Link to="/games">
-          <h3>
+          <p>
             <b>Games</b>
-          </h3>
+          </p>
         </Link>
         <Link to="/news">
-          <h3>
+          <p>
             <b>News</b>
-          </h3>
+          </p>
         </Link>
         <Link to="/faq">
-          <h3>
+          <p>
             <b>FAQ</b>
-          </h3>
+          </p>
         </Link>
       </div>
     </>
