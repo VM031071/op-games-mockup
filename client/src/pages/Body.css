@@ -1,9 +1,5 @@
 .bodyRoot {
-  flex-wrap: wrap;
-}
-.bodyRoot > * {
-  border: 5px solid #303030;
+  border: 5px solid green;
   display: flex;
-  flex: 1 1 100%;
   justify-content: center;
 }

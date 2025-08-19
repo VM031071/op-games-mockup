@@ -1,22 +1,35 @@
-.homeRoot {
+.gamesRoot {
   border: 5px solid blue;
   display: flex;
   flex: 1 1 100%;
   flex-wrap: wrap;
 }
-.homeRoot > * {
+.gamesRoot > * {
   border: 5px solid red;
   display: flex;
   flex: 1 1 100%;
   justify-content: center;
 }
 
-.featuredGames {
+.gamesList {
   flex-wrap: wrap;
 }
-.featuredGames > * {
+.gamesList > * {
   border: 5px solid green;
   display: flex;
   flex: 1 1 100%;
   justify-content: center;
+}
+
+.gameInfo {
+  flex-wrap: wrap;
+}
+.gameInfo > * {
+  border: 5px solid blue;
+  display: flex;
+  flex: 0 0 40%;
+  justify-content: center;
+}
+.gameInfo > p {
+  justify-content: start;
 }

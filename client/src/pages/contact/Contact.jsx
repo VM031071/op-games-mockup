@@ -3,7 +3,7 @@ function Contact() {
   
   return (
     <>
-      <div>
+      <div class="contactRoot">
         <h1>
           Contact Info
         </h1>

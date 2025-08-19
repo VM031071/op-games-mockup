@@ -3,7 +3,7 @@ function Careers() {
   
   return (
     <>
-      <div>
+      <div class="careersRoot">
         <h1>
           Careers
         </h1>

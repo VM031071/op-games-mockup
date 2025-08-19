@@ -8,34 +8,41 @@ function Footer() {
   return (
     <>
       <div class="footerRoot">
-        <h2>
-          Footer
-        </h2>
-        <Link to="/contact">
-          <h3>
-            <b>Contact Us</b>
-          </h3>
-        </Link>
-        <Link to="/support">
-          <h3>
-            <b>Support</b>
-          </h3>
-        </Link>
-        <Link to="/careers">
-          <h3>
-            <b>Careers</b>
-          </h3>
-        </Link>
-        <Link to="/terms-and-conditions">
-          <h3>
-            <b>Terms and Conditions</b>
-          </h3>
-        </Link>
-        <Link to="/privacy-policy">
-          <h3>
-            <b>Privacy Policy</b>
-          </h3>
-        </Link>
+        <div>
+          <Link to="/contact">
+            <p>
+              <b>Contact Us</b>
+            </p>
+          </Link>
+        </div>
+        <div>
+          <Link to="/support">
+            <p>
+              <b>Support</b>
+            </p>
+          </Link>
+        </div>
+        <div>
+          <Link to="/careers">
+            <p>
+              <b>Careers</b>
+            </p>
+          </Link>
+        </div>
+        <div>
+          <Link to="/terms-and-conditions">
+            <p>
+              <b>Terms and Conditions</b>
+            </p>
+          </Link>
+        </div>
+        <div>
+          <Link to="/privacy-policy">
+            <p>
+              <b>Privacy Policy</b>
+            </p>
+          </Link>
+        </div>
       </div>
     </>
   );

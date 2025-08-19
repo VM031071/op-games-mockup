@@ -1,13 +1,12 @@
 .headerRoot {
-  border: 5px solid #303030;
+  border: 5px solid green;
   display: flex;
-  flex: 1 1 100%;
   flex-wrap: wrap;
   justify-content: center;
 }
 .headerRoot > * {
   background-color: #252525;
-  border: 5px solid #404040;
+  border: 5px solid blue;
   display: flex;
   flex: 0 0 15%;
   justify-content: center;
