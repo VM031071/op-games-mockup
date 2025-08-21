@@ -14,18 +14,19 @@ import Support from "./support/Support";
 import TermsAndConditions from "./termsAndConditions/TermsAndConditions";
 import "./Body.css";
 
-function Body() {
+function Body({ borderState, toggleBorder }) {
   console.log("Hello world! (Body.jsx)");
+  const bodyRoot = borderState ? 'bodyRootBorder' : 'bodyRoot';
   
   return (
     <>
-      <div class="bodyRoot">
+      <div className={bodyRoot}>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<Home borderState={borderState} toggleBorder={toggleBorder} />} />
           <Route path="/careers" element={<Careers />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/faq" element={<FAQ />} />
-          <Route path="/games" element={<Games />} />
+          <Route path="/games" element={<Games borderState={borderState} />} />
           <Route path="/games/game1" element={<Game1 />} />
           <Route path="/games/game2" element={<Game2 />} />
           <Route path="/games/game3" element={<Game3 />} />

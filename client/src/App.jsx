@@ -19,21 +19,27 @@ function App() {
   useEffect(() => {
     fetchAPI();
   }, []);
+  
+  const [borderState, setBorderState] = useState(false);
+  const toggleBorder = () => {
+    setBorderState(prev => !prev);
+  }
+  const appRoot = borderState ? 'appRootBorder' : 'appRoot';
 
   return (
     <>
-      <div class="appRoot">
+      <div className={appRoot}>
         <BrowserRouter>
           <div>
-            <Header />
+            <Header borderState={borderState} />
           </div>
 
           <div>
-            <Body />
+            <Body borderState={borderState} toggleBorder={toggleBorder} />
           </div>
 
           <div>
-            <Footer />
+            <Footer borderState={borderState} />
           </div>
         </BrowserRouter>
       </div>

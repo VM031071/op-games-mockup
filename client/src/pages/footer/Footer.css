@@ -1,12 +1,41 @@
 .footerRoot {
-  border: 5px solid green;
+  border: none;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 .footerRoot > * {
+  border: none;
+  display: flex;
+  flex: 0 0 10%;
+  justify-content: center;
+}
+.footerRoot a {
+  color: rgba(150, 150, 225, 1);
+  font-size: small;
+}
+.footerRoot a:hover {
+  color: var(--textColor);
+}
+
+
+
+.footerRootBorder {
+  border: 5px solid green;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.footerRootBorder > * {
   border: 5px solid blue;
   display: flex;
   flex: 0 0 10%;
   justify-content: center;
+}
+.footerRootBorder a {
+  color: rgba(150, 150, 225, 1);
+  font-size: small;
+}
+.footerRootBorder a:hover {
+  color: var(--textColor);
 }

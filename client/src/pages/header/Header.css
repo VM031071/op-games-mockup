@@ -1,22 +1,41 @@
 .headerRoot {
-  border: 5px solid green;
+  border: none;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 .headerRoot > * {
-  background-color: #252525;
-  border: 5px solid blue;
+  background-color: rgba(70, 65, 125, 1);
+  border: none;
   display: flex;
   flex: 0 0 15%;
   justify-content: center;
 }
 .headerRoot a {
-  color: white;
   font-size: large;
-  text-decoration: none;
 }
 .headerRoot a:hover {
-  background-color: white;
-  color: black;
+  background-color: rgba(85, 75, 150, 1);
+}
+
+
+
+.headerRootBorder {
+  border: 5px solid green;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.headerRootBorder > * {
+  background-color: rgba(70, 65, 125, 1);
+  border: 5px solid blue;
+  display: flex;
+  flex: 0 0 15%;
+  justify-content: center;
+}
+.headerRootBorder a {
+  font-size: large;
+}
+.headerRootBorder a:hover {
+  background-color: rgba(85, 75, 150, 1);
 }

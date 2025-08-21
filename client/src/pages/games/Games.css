@@ -1,11 +1,11 @@
 .gamesRoot {
-  border: 5px solid blue;
+  border: none;
   display: flex;
   flex: 1 1 100%;
   flex-wrap: wrap;
 }
 .gamesRoot > * {
-  border: 5px solid red;
+  border: none;
   display: flex;
   flex: 1 1 100%;
   justify-content: center;
@@ -15,7 +15,7 @@
   flex-wrap: wrap;
 }
 .gamesList > * {
-  border: 5px solid green;
+  border: none;
   display: flex;
   flex: 1 1 100%;
   justify-content: center;
@@ -25,11 +25,49 @@
   flex-wrap: wrap;
 }
 .gameInfo > * {
-  border: 5px solid blue;
+  border: none;
   display: flex;
   flex: 0 0 40%;
   justify-content: center;
 }
 .gameInfo > p {
+  justify-content: start;
+}
+
+
+
+.gamesRootBorder {
+  border: 5px solid blue;
+  display: flex;
+  flex: 1 1 100%;
+  flex-wrap: wrap;
+}
+.gamesRootBorder > * {
+  border: 5px solid red;
+  display: flex;
+  flex: 1 1 100%;
+  justify-content: center;
+}
+
+.gamesListBorder {
+  flex-wrap: wrap;
+}
+.gamesListBorder > * {
+  border: 5px solid green;
+  display: flex;
+  flex: 1 1 100%;
+  justify-content: center;
+}
+
+.gameInfoBorder {
+  flex-wrap: wrap;
+}
+.gameInfoBorder > * {
+  border: 5px solid blue;
+  display: flex;
+  flex: 0 0 40%;
+  justify-content: center;
+}
+.gameInfoBorder > p {
   justify-content: start;
 }
