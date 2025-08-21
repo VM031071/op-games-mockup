@@ -34,7 +34,7 @@ function App() {
             <Header borderState={borderState} />
           </div>
 
-          <div>
+          <div className="appBody">
             <Body borderState={borderState} toggleBorder={toggleBorder} />
           </div>
 

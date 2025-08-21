@@ -9,8 +9,15 @@ a {
   color: var(--textColor);
   text-decoration: none;
 }
+
 .appRoot {
   border: none;
+}
+
+.appBody {
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
 }
 
 
