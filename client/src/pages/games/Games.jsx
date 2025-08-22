@@ -4,9 +4,9 @@ import "./Games.css";
 
 function Games({ borderState }) {
 	console.log("Hello world! (Games.jsx)");
-  const gamesRoot = borderState ? 'gamesRootBorder' : 'gamesRoot';
-  const gamesList = borderState ? 'gamesListBorder' : 'gamesList';
-  const gameInfo = borderState ? 'gameInfoBorder' : 'gameInfo';
+  const gamesRoot = borderState ? "gamesRootBorder" : "gamesRoot";
+  const gamesList = borderState ? "gamesListBorder" : "gamesList";
+  const gameInfo = borderState ? "gameInfoBorder" : "gameInfo";
 	
 	return (
 		<>

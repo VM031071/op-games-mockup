@@ -16,7 +16,7 @@ import "./Body.css";
 
 function Body({ borderState, toggleBorder }) {
   console.log("Hello world! (Body.jsx)");
-  const bodyRoot = borderState ? 'bodyRootBorder' : 'bodyRoot';
+  const bodyRoot = borderState ? "bodyRootBorder" : "bodyRoot";
   
   return (
     <>

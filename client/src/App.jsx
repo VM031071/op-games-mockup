@@ -24,7 +24,7 @@ function App() {
   const toggleBorder = () => {
     setBorderState(prev => !prev);
   }
-  const appRoot = borderState ? 'appRootBorder' : 'appRoot';
+  const appRoot = borderState ? "appRootBorder" : "appRoot";
 
   return (
     <>

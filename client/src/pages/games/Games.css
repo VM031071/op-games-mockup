@@ -1,5 +1,4 @@
 .gamesRoot {
-  border: none;
   display: flex;
   flex: 1 1 100%;
   flex-wrap: wrap;
@@ -37,13 +36,12 @@
 
 
 .gamesRootBorder {
-  border: 5px solid blue;
   display: flex;
   flex: 1 1 100%;
   flex-wrap: wrap;
 }
 .gamesRootBorder > * {
-  border: 5px solid red;
+  border: 5px solid blue;
   display: flex;
   flex: 1 1 100%;
   justify-content: center;
@@ -53,7 +51,7 @@
   flex-wrap: wrap;
 }
 .gamesListBorder > * {
-  border: 5px solid green;
+  border: 5px solid red;
   display: flex;
   flex: 1 1 100%;
   justify-content: center;
@@ -63,7 +61,7 @@
   flex-wrap: wrap;
 }
 .gameInfoBorder > * {
-  border: 5px solid blue;
+  border: 5px solid green;
   display: flex;
   flex: 0 0 40%;
   justify-content: center;

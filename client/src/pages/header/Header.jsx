@@ -4,7 +4,7 @@ import "./Header.css";
 
 function Header({ borderState }) {
   console.log("Hello world! (Header.jsx)");
-  const headerRoot = borderState ? 'headerRootBorder' : 'headerRoot';
+  const headerRoot = borderState ? "headerRootBorder" : "headerRoot";
 
   return (
     <>

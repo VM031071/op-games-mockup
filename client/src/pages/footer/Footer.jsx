@@ -4,7 +4,7 @@ import "./Footer.css"
 
 function Footer({ borderState }) {
   console.log("Hello world! (Footer.jsx)");
-  const footerRoot = borderState ? 'footerRootBorder' : 'footerRoot';
+  const footerRoot = borderState ? "footerRootBorder" : "footerRoot";
 
   return (
     <>

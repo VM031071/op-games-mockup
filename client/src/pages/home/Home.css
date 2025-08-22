@@ -1,5 +1,4 @@
 .homeRoot {
-  border: none;
   display: flex;
   flex: 1 1 100%;
   flex-wrap: wrap;
@@ -12,6 +11,9 @@
 }
 
 .featuredGames {
+  border: none;
+  display: flex;
+  flex: 0 0 30%;
   flex-wrap: wrap;
 }
 .featuredGames > * {
@@ -21,27 +23,45 @@
   justify-content: center;
 }
 
+.featuredGame {
+  align-items: center;
+  border: none;
+  display: flex;
+  flex: 0 0 60%;
+  justify-content: center;
+}
+
 
 
 .homeRootBorder {
-  border: 5px solid blue;
   display: flex;
   flex: 1 1 100%;
   flex-wrap: wrap;
 }
 .homeRootBorder > * {
-  border: 5px solid red;
+  border: 5px solid blue;
   display: flex;
   flex: 1 1 100%;
   justify-content: center;
 }
 
 .featuredGamesBorder {
+  border: 5px solid red;
+  display: flex;
+  flex: 0 0 30%;
   flex-wrap: wrap;
 }
 .featuredGamesBorder > * {
   border: 5px solid green;
   display: flex;
   flex: 1 1 100%;
+  justify-content: center;
+}
+
+.featuredGameBorder {
+  align-items: center;
+  border: 5px solid red;
+  display: flex;
+  flex: 0 0 60%;
   justify-content: center;
 }
