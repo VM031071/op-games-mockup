@@ -1,34 +1,34 @@
-.gamesRoot {
+.gamesRootBorder {
   display: flex;
   flex: 1 1 100%;
   flex-wrap: wrap;
 }
-.gamesRoot > * {
-  border: none;
-  display: flex;
-  flex: 1 1 100%;
-  justify-content: center;
-}
-
-.gamesList {
-  flex-wrap: wrap;
-}
-.gamesList > * {
-  border: none;
+.gamesRootBorder > * {
+  border: 5px solid blue;
   display: flex;
   flex: 1 1 100%;
   justify-content: center;
 }
 
-.gameInfo {
+.gamesListBorder {
   flex-wrap: wrap;
 }
-.gameInfo > * {
-  border: none;
+.gamesListBorder > * {
+  border: 5px solid red;
+  display: flex;
+  flex: 1 1 100%;
+  justify-content: center;
+}
+
+.gameInfoBorder {
+  flex-wrap: wrap;
+}
+.gameInfoBorder > * {
+  border: 5px solid green;
   display: flex;
   flex: 0 0 40%;
   justify-content: center;
 }
-.gameInfo > p {
+.gameInfoBorder > p {
   justify-content: start;
 }

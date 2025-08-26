@@ -1,31 +1,31 @@
-.homeRoot {
+.homeRootBorder {
   display: flex;
   flex: 1 1 100%;
   flex-wrap: wrap;
 }
-.homeRoot > * {
-  border: none;
+.homeRootBorder > * {
+  border: 5px solid blue;
   display: flex;
   flex: 1 1 100%;
   justify-content: center;
 }
 
-.featuredGames {
-  border: none;
+.featuredGamesBorder {
+  border: 5px solid red;
   display: flex;
   flex: 0 0 30%;
   flex-wrap: wrap;
 }
-.featuredGames > * {
-  border: none;
+.featuredGamesBorder > * {
+  border: 5px solid green;
   display: flex;
   flex: 1 1 100%;
   justify-content: center;
 }
 
-.featuredGame {
+.featuredGameBorder {
   align-items: center;
-  border: none;
+  border: 5px solid red;
   display: flex;
   flex: 0 0 60%;
   justify-content: center;

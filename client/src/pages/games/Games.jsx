@@ -1,6 +1,7 @@
 import { Link } from 'react-router';
 
 import "./Games.css";
+import "./GamesBorder.css";
 
 function Games({ borderState }) {
 	console.log("Hello world! (Games.jsx)");

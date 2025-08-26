@@ -10,18 +10,12 @@ a {
   text-decoration: none;
 }
 
-.appRoot {
+/*.appRoot {
   border: none;
-}
+}*/
 
 .appBody {
   min-height: 80vh;
   display: flex;
   flex-direction: column;
-}
-
-
-
-.appRootBorder {
-  border: 5px solid red;
 }

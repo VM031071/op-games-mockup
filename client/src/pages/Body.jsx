@@ -13,6 +13,7 @@ import PrivacyPolicy from "./privacyPolicy/PrivacyPolicy";
 import Support from "./support/Support";
 import TermsAndConditions from "./termsAndConditions/TermsAndConditions";
 import "./Body.css";
+import "./BodyBorder.css";
 
 function Body({ borderState, toggleBorder }) {
   console.log("Hello world! (Body.jsx)");

@@ -1,6 +1,7 @@
 import { Link } from 'react-router';
 
-import "./Footer.css"
+import "./Footer.css";
+import "./FooterBorder.css";
 
 function Footer({ borderState }) {
   console.log("Hello world! (Footer.jsx)");

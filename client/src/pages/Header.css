@@ -1,0 +1,17 @@
+.headerRoot {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.headerRoot > * {
+  background-color: rgba(70, 65, 125, 1);
+  display: flex;
+  flex: 0 0 15%;
+  justify-content: center;
+}
+.headerRoot a {
+  font-size: large;
+}
+.headerRoot a:hover {
+  background-color: rgba(85, 75, 150, 1);
+}

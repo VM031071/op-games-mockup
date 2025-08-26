@@ -2,10 +2,11 @@ import axios from "axios";
 import { BrowserRouter } from "react-router-dom";
 import { useState, useEffect } from "react";
 
-import Footer from "./pages/footer/Footer";
-import Header from "./pages/header/Header";
+import Footer from "./pages/Footer";
+import Header from "./pages/Header";
 import Body from "./pages/Body"
 import "./App.css";
+import "./AppBorder.css";
 
 function App() {
   const [array, setArray] = useState([]);

@@ -1,6 +1,7 @@
 import { Link } from 'react-router';
 
 import "./Header.css";
+import "./HeaderBorder.css";
 
 function Header({ borderState }) {
   console.log("Hello world! (Header.jsx)");

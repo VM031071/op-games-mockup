@@ -1,6 +1,7 @@
 import { Link } from 'react-router';
 
 import "./Home.css";
+import "./HomeBorder.css";
 
 function Home({ borderState, toggleBorder }) {
   console.log("Hello world! (Home.jsx)");
