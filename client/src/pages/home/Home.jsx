@@ -14,7 +14,9 @@ function Home({ borderState, toggleBorder }) {
       <div className={homeRoot}>
         <div>
           <h1>
-            Home Page
+            Welcome to
+            <br></br>
+            Overpowered Games!
           </h1>
         </div>
 

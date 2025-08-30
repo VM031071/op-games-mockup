@@ -1,3 +1,8 @@
+h1 {
+  font-size: 48pt;
+  text-align: center;
+}
+
 .homeRootBorder {
   display: flex;
   flex: 1 1 100%;
@@ -8,6 +13,10 @@
   display: flex;
   flex: 1 1 100%;
   justify-content: center;
+}
+.homeRootBorder h1 {
+  font-size: 48pt;
+  text-align: center;
 }
 
 .featuredGamesBorder {
