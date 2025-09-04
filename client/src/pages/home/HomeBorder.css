@@ -19,23 +19,38 @@ h1 {
   text-align: center;
 }
 
-.featuredGamesBorder {
+.featuredGamesListBorder {
   border: 5px solid red;
   display: flex;
   flex: 0 0 30%;
   flex-wrap: wrap;
 }
-.featuredGamesBorder > * {
+.featuredGamesListBorder > * {
   border: 5px solid green;
   display: flex;
   flex: 1 1 100%;
   justify-content: center;
 }
+.featuredGamesListBorder button {
+  background: none;
+  width: 33%;
+  height: 33%;
+}
+.featuredGamesListBorder img {
+  height: 100%;
+  object-fit: contain;
+  width: 100%;
+}
 
-.featuredGameBorder {
+.showcasedGameBorder {
   align-items: center;
   border: 5px solid red;
   display: flex;
   flex: 0 0 60%;
   justify-content: center;
+}
+.showcasedGameBorder img {
+  height: 100%; 
+  object-fit: contain;
+  width: 100%;
 }

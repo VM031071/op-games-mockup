@@ -9,7 +9,6 @@ h1 {
   flex-wrap: wrap;
 }
 .homeRoot > * {
-  border: none;
   display: flex;
   flex: 1 1 100%;
   justify-content: center;
@@ -20,22 +19,40 @@ h1 {
 }
 
 .featuredGames {
-  border: none;
+  height: 40vh;
+}
+
+.featuredGamesList {
   display: flex;
   flex: 0 0 30%;
   flex-wrap: wrap;
 }
-.featuredGames > * {
-  border: none;
+.featuredGamesList > * {
   display: flex;
   flex: 1 1 100%;
   justify-content: center;
 }
+.featuredGamesList button {
+  background: none;
+  border: none;
+  width: 33%;
+  height: 33%;
+}
+.featuredGamesList img {
+  height: 100%; 
+  object-fit: contain;
+  width: 100%;
+}
 
-.featuredGame {
+.showcasedGame {
   align-items: center;
   border: none;
   display: flex;
   flex: 0 0 60%;
   justify-content: center;
+}
+.showcasedGame img {
+  height: 100%; 
+  object-fit: contain;
+  width: 100%;
 }
