@@ -16,29 +16,35 @@ import "./Body.css";
 import "./BodyBorder.css";
 
 function Body({ borderState, toggleBorder }) {
-  console.log("Hello world! (Body.jsx)");
-  const bodyRoot = borderState ? "bodyRootBorder" : "bodyRoot";
-  
-  return (
-    <>
-      <div className={bodyRoot}>
-        <Routes>
-          <Route path="/" element={<Home borderState={borderState} toggleBorder={toggleBorder} />} />
-          <Route path="/careers" element={<Careers />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/faq" element={<FAQ />} />
-          <Route path="/games" element={<Games borderState={borderState} />} />
-          <Route path="/games/game1" element={<Game1 />} />
-          <Route path="/games/game2" element={<Game2 />} />
-          <Route path="/games/game3" element={<Game3 />} />
-          <Route path="/news" element={<News />} />
-          <Route path="/privacy-policy" element={<PrivacyPolicy />} />
-          <Route path="/support" element={<Support />} />
-          <Route path="/terms-and-conditions" element={<TermsAndConditions />} />
-        </Routes>
-      </div>
-    </>
-  );
+  try {
+    console.log("Hello world! (Body.jsx)");
+    const bodyRoot = borderState ? "bodyRootBorder" : "bodyRoot";
+    
+
+    return (
+      <>
+        <div className={bodyRoot}>
+          <Routes>
+            <Route path="/" element={<Home borderState={borderState} toggleBorder={toggleBorder} />} />
+            <Route path="/careers" element={<Careers />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="/faq" element={<FAQ />} />
+            <Route path="/games" element={<Games borderState={borderState} />} />
+            <Route path="/games/game1" element={<Game1 />} />
+            <Route path="/games/game2" element={<Game2 />} />
+            <Route path="/games/game3" element={<Game3 />} />
+            <Route path="/news" element={<News />} />
+            <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+            <Route path="/support" element={<Support />} />
+            <Route path="/terms-and-conditions" element={<TermsAndConditions />} />
+          </Routes>
+        </div>
+      </>
+    );
+
+  } catch (error) {
+    console.error("error at Body");
+  };
 };
 
 export default Body;

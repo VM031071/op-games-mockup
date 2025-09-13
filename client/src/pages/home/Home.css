@@ -1,8 +1,4 @@
-h1 {
-  font-size: 48pt;
-  text-align: center;
-}
-
+/* First layer of wrapping, includes every element of homeRoot */
 .homeRoot {
   display: flex;
   flex: 1 1 100%;
@@ -13,18 +9,22 @@ h1 {
   flex: 1 1 100%;
   justify-content: center;
 }
+/* Styling for the main header of the page.
+   Must be large since it is essentially the "title" of the website. */
 .homeRoot h1 {
   font-size: 48pt;
   text-align: center;
 }
 
+/* Determines the height of the division containing the featured games and spotlight game. */
 .featuredGames {
   height: 40vh;
 }
 
+/* Second layer of wrapping, contains each game in the featured games list. */
 .featuredGamesList {
   display: flex;
-  flex: 0 0 30%;
+  flex: 0 0 15%;
   flex-wrap: wrap;
 }
 .featuredGamesList > * {
@@ -32,27 +32,37 @@ h1 {
   flex: 1 1 100%;
   justify-content: center;
 }
+/* Styling for the button containing the game's logo.
+   Size must equal 1/x%, where x = number of games. */
 .featuredGamesList button {
   background: none;
   border: none;
   width: 33%;
   height: 33%;
 }
+/* Styling to maintain the aspect ratio of the game's logo. */
 .featuredGamesList img {
   height: 100%; 
   object-fit: contain;
   width: 100%;
 }
 
+/* Styling for the spotlight game. */
 .showcasedGame {
   align-items: center;
-  border: none;
   display: flex;
-  flex: 0 0 60%;
+  flex: 0 0 40%;
   justify-content: center;
 }
+/* Styling for the anchor tags within the Link tag that contains the logo. */
+.showcasedGame a {
+  height: 100%;
+  object-fit: contain;
+  width: 100%;
+}
+/* Styling to maintain the aspect ratio of the game's logo. */
 .showcasedGame img {
-  height: 100%; 
+  height: 100%;
   object-fit: contain;
   width: 100%;
 }
