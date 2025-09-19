@@ -23,10 +23,19 @@ function Home({ borderState, toggleBorder }) {
     };
     // Variable and function for toggling the spotlight game. Note: gameState updates on rerender.
     const [gameState, setGameState] = useState(0);
-    function toggleGame(i) {
-      setGameState(gameState => i);
-      // Debugging line. *DELETE*
-      console.log(gameState);
+    function toggleGame(i, event) {
+      // In that case, event.ctrlKey does the trick.
+      if (event.ctrlKey || event.metaKey) {
+        const baseURL = "/games/";
+        const url = baseURL + featuredGamesDict[i];
+        window.open(url, "_blank");
+        //console.log('Ctrl (or Cmd on Mac) + click detected');
+      }
+      else {
+        setGameState(gameState => i);
+        // Debugging line. *DELETE*
+        console.log(gameState);
+      };
     };
 
     // Dictionary that contains the url extension for each game's page.
@@ -80,15 +89,15 @@ function Home({ borderState, toggleBorder }) {
             {/* Division for the featured games.
                 Contains the games' logos in buttons to toggle the spotlight game when clicked. */}
             <div className={featuredGamesList}>
-              <button onClick={() => toggleGame(0)} onDoubleClick={() => goToGame(0)} onAuxClick={() => openGameTab(0)}>
+              <button onClick={(event) => toggleGame(0, event)} onDoubleClick={() => goToGame(0)} onAuxClick={() => openGameTab(0)}>
                 <img src={gameLogoDict[0]} alt="roller ball battle logo"/>
               </button>
 
-              <button onClick={() => toggleGame(1)} onDoubleClick={() => goToGame(1)} onAuxClick={() => openGameTab(1)}>
+              <button onClick={(event) => toggleGame(1, event)} onDoubleClick={() => goToGame(1)} onAuxClick={() => openGameTab(1)}>
                 <img src={gameLogoDict[1]} alt="placeholder image"/>
               </button>
 
-              <button onClick={() => toggleGame(2)} onDoubleClick={() => goToGame(2)} onAuxClick={() => openGameTab(2)}>
+              <button onClick={(event) => toggleGame(2, event)} onDoubleClick={() => goToGame(2)} onAuxClick={() => openGameTab(2)}>
                 <img src={gameLogoDict[2]} alt="placeholder image"/>
               </button>
             </div>
