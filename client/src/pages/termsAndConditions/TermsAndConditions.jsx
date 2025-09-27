@@ -1,4 +1,5 @@
 import { Link } from 'react-router';
+
 function TermsAndConditions() {
   try {
     // Debugging lines. *DELETE*
@@ -164,7 +165,6 @@ function TermsAndConditions() {
             Any breach of these Intellectual Property Rights will constitute a material breach of our Legal Terms and
             your right to use our Services will terminate immediately.
           </p>
-
           <h3>
             Your submissions
           </h3>
