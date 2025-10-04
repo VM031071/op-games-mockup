@@ -253,6 +253,365 @@ function PrivacyPolicy() {
             Category of personal information collected according to the CCPA: identifiers. This processing
             constitutes: a sale according to the CCPA, VCDPA, CPA, CTDPA and UCPA
           </p>
+
+          <h2 id="ppSec6">
+            Further information
+          </h2>
+          <p>
+            <strong>Legal basis of processing</strong>
+          </p>
+          <ul>
+            <li>
+              We may process personal data relating to you if you have given your consent or for one or more
+              specific purposes: provision of data is necessary for the performance of an agreement with you
+              and/or for any pre-contractual obligations thereof;
+            </li>
+            <li>processing is necessary for compliance with a legal obligation to which we are subject;</li>
+            <li>
+              processing is related to a task that is carried out in the public interest or in the exercise
+              of official authority vested in us;
+            </li>
+            <li>
+              processing is necessary for the purposes of the legitimate interests pursued by us or by a
+              third party.
+            </li>
+          </ul>
+          <p>
+            In any case, we will gladly help to clarify the specific legal basis that applies to the processing,
+            and whether the provision of personal data is a statutory or contractual requirement, or a
+            requirement necessary to enter into a contract.
+          </p>
+          <p>
+            <strong>Understanding how long we keep your information</strong>
+          </p>
+          <p>
+            When we collect your personal information, we keep it for as long as required for the purposes we
+            collected for. Sometimes, we might need to keep your personal information longer due to a legal
+            obligation or based on your consent. 
+          </p>
+          <p>
+            Here’s what that means in more detail. We will keep your personal information based on the purposes
+            and reasons set out below:  
+          </p>
+          <ul>
+            <li>
+              <strong>for contractual purposes:</strong> If we have concluded a contract with you, then we'll
+              keep your information until the contract has been performed in full.
+            </li>
+            <li>
+              <strong>for our legitimate interests:</strong> If we're using your personal information for
+              purposes that are necessary and relevant to our business operations, we'll keep it as long as we
+              need it for those purposes. You can learn more about these purposes within the relevant sections
+              of this document or by contacting us. 
+            </li>
+            <li>
+              <strong>with your consent:</strong> We may be allowed to retain personal data for a longer period
+              whenever you have given consent to such processing, unless you withdraw your consent. 
+            </li>
+            <li>
+              <strong>legal obligations:</strong> we may be obliged to retain personal data for a longer period
+              whenever required to fulfill a legal obligation or upon order of an authority.
+            </li>
+          </ul>
+          <p>
+            Once the retention period expires, your personal data will be deleted. Therefore, the right of
+            access, the right to erasure, the right to rectification and the right to data portability cannot
+            be enforced after expiration of the retention period.
+          </p>
+          <h3>
+            Information about this document
+          </h3>
+          <p>
+            This document was generated with the use of the privacy policy template.
+          </p>
+
+          <h2 id="ppSec7">
+            Your rights based on the General Data Protection Regulation (GDPR)
+          </h2>
+          <p>
+            You may exercise certain rights regarding your data processed by us. In particular, you have the
+            right to do the following, to the extent permitted by law:
+          </p>
+          <ul>
+            <li>
+              <strong>Withdraw your consent at any time.</strong> You have the right to withdraw consent where
+              they have previously given your consent to the processing of your personal data.
+            </li>
+            <li>
+              <strong>Object to processing of your data.</strong> You have the right to object to the processing
+              of your data if the processing is carried out on a legal basis other than consent.
+              <ul>
+                <li>
+                  If your personal data is processed for public interest, by an official authority, or for our
+                  legitimate business interests, you can object by providing a reason related to your particular
+                  situation.
+                </li>
+                <li>However, if your personal data is being processed for direct marketing purposes, you can
+                  object at any time, free of charge, and without any reason. If you do, we will stop using your
+                  personal data for marketing. To find out if we are using your data for direct marketing, please
+                  refer to the relevant sections of this document.
+                </li>
+              </ul>
+            </li>
+            <li>
+              <strong>Access your data.</strong> You have the right to learn if data is being processed by us,
+              obtain disclosure regarding certain aspects of the processing and obtain a copy of the data
+              undergoing processing.
+            </li>
+            <li>
+              <strong>Verify and seek rectification.</strong> You have the right to verify the accuracy of your
+              data and ask for it to be updated or corrected.
+            </li>
+            <li>
+              <strong>Restrict the processing of your data.</strong> You have the right to restrict the processing
+              of your data. In this case, we will not process your data for any purpose other than storing it.
+            </li>
+            <li>
+              <strong>Have your personal data deleted or otherwise removed.</strong> You have the right to obtain
+              the erasure of your data from us.
+            </li>
+            <li>
+              <strong>Receive your data and have it transferred to another controller.</strong> You have the right
+              to receive your data in a structured, commonly used and machine-readable format and, if technically
+              feasible, to have it transmitted to another controller without any hindrance.
+            </li>
+            <li>
+              <strong>Lodge a complaint.</strong> You have the right to bring a claim before your competent data
+              protection authority.
+            </li>
+            <li>
+              <strong>Learn about the reason for data transfers.</strong> You are also entitled to learn about the
+              legal basis for data transfers abroad, including to any international organization governed by public
+              international law or set up by two or more countries, such as the UN.
+            </li>
+            <li>
+              <strong>Know about security measures.</strong> You have the right to know about the security measures
+              we take to safeguard your data.
+            </li>
+          </ul>
+          <h3>
+            How to exercise these rights
+          </h3>
+          <p>
+            Any requests to exercise your rights can be directed to us. Our full contact details can be found at
+            the start of this document.
+          </p>
+          <p>
+            Such requests are free of charge and will be answered by us as early as possible, providing you with the
+            information required by law. 
+          </p>
+          <p>
+            Any rectification or erasure of personal data or restriction of processing will be communicated by us to
+            each recipient, if any, to whom the personal data has been disclosed unless this proves impossible or
+            involves disproportionate effort. At your request, we will inform you about those recipients.
+          </p>
+
+          <h2 id="ppSec8">
+            Further information if you reside in Switzerland
+          </h2>
+          <p>
+            This section applies to you if you reside in Switzerland, and supersedes any other possibly divergent or
+            conflicting information contained in the privacy policy.
+          </p>
+          <p>
+            Further details regarding the categories of data processed, the purposes of processing, the categories of
+            recipients of the personal data, if any, the retention period and further information about personal data
+            can be found in the section titled “Detailed information on the processing of personal data” within this
+            document.
+          </p>
+          <h3>
+            Your rights according to the Swiss Federal Act on Data Protection
+          </h3>
+          <p>
+            You may exercise certain rights regarding your data within the limits of law, including the following:
+          </p>
+          <ul>
+            <li>right of access to personal data;</li>
+            <li>
+              right to object to the processing of your personal data (which also allows you to demand that
+              processing of personal data be restricted, personal data be deleted or destroyed, specific disclosures
+              of personal data to third parties be prohibited);
+            </li>
+            <li>
+              right to receive your personal data and have it transferred to another controller (data portability);
+            </li>
+            <li>right to ask for incorrect personal data to be corrected.</li>
+          </ul>
+          <h3>
+            How to exercise these rights
+          </h3>
+          <p>
+            Any requests to exercise your rights can be directed to us through the contact details provided at the
+            start of this document. Such requests are free of charge and will be answered by us as early as possible,
+            providing you with the information required by law.
+          </p>
+
+          <h2 id="ppSec9">
+            Further information if you reside in Brazil
+          </h2>
+          <p>
+            This section of the document integrates with and supplements the information contained in the rest of the
+            privacy policy and is provided by the entity running this website and, if the case may be, its parent,
+            subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”,
+            “our”).
+          </p>
+          <p>
+            This section applies to all Users in Brazil (Users are referred to below, simply as “you”, “your”, “yours”),
+            according to the "Lei Geral de Proteção de Dados" (the "LGPD"), and for such Users, it supersedes any other
+            possibly divergent or conflicting information contained in the privacy policy. This part of the document
+            uses the term “personal information” as it is defined in the LGPD.
+          </p>
+          <h3>
+            The grounds on which we process your personal information
+          </h3>
+          <p>
+            We can process your personal information solely if we have a legal basis for such processing. Legal bases
+            are as follows:
+          </p>
+          <ul>
+            <li>your consent to the relevant processing activities;</li>
+            <li>compliance with a legal or regulatory obligation that lies with us;</li>
+            <li>
+              the carrying out of public policies provided in laws or regulations or based on contracts, agreements and
+              similar legal instruments;
+            </li>
+            <li>studies conducted by research entities, preferably carried out on anonymized personal information;</li>
+            <li>
+              the carrying out of a contract and its preliminary procedures, in cases where you are a party to said
+              contract;
+            </li>
+            <li>the exercising of our rights in judicial, administrative or arbitration procedures;</li>
+            <li>protection or physical safety of yourself or a third party;</li>
+            <li>the protection of health – in procedures carried out by health entities or professionals;</li>
+            <li>
+              our legitimate interests, provided that your fundamental rights and liberties do not prevail over such
+              interests; and
+            </li>
+            <li>credit protection.</li>
+          </ul>
+          <p>
+            To find out more about the legal bases, you can contact us at any time using the contact details provided at
+            the start of this document.
+          </p>
+          <h3>
+            Categories of personal information processed
+          </h3>
+          <p>
+            To find out what categories of your personal information are processed, you can read the section titled
+            “Detailed information on the processing of personal data” within this document.
+          </p>
+          <h3>
+            Why we process your personal information
+          </h3>
+          <p>
+            To find out why we process your personal information, you can read the sections titled “Detailed information
+            on the processing of personal data” and “The purposes of processing” within this document.
+          </p>
+          <h3>
+            Your Brazilian privacy rights
+          </h3>
+          <p>
+            You have the right to:
+          </p>
+          <ul>
+            <li>obtain confirmation of the existence of processing activities on your personal information;</li>
+            <li>access to your personal information;</li>
+            <li>have incomplete, inaccurate or outdated personal information rectified;</li>
+            <li>
+              obtain the anonymization, blocking or elimination of your unnecessary or excessive personal information, or
+              of information that is not being processed in compliance with the LGPD;
+            </li>
+            <li>obtain information on the possibility to provide or deny your consent and the consequences thereof;</li>
+            <li>obtain information about the third parties with whom we share your personal information;</li>
+            <li>
+              obtain, upon your express request, the portability of your personal information (except for anonymized
+              information) to another service or product provider, provided that our commercial and industrial secrets
+              are safeguarded;
+            </li>
+            <li>
+              obtain the deletion of your personal information being processed if the processing was based upon your
+              consent, unless one or more exceptions provided for in art. 16 of the LGPD apply;
+            </li>
+            <li>revoke your consent at any time;</li>
+            <li>
+              lodge a complaint related to your personal information with the ANPD (the National data Protection Authority)
+              or with consumer protection bodies;
+            </li>
+            <li>
+              oppose a processing activity in cases where the processing is not carried out in compliance with the
+              provisions of the law;
+            </li>
+            <li>
+              request clear and adequate information regarding the criteria and procedures used for an automated
+              decision; and
+            </li>
+            <li>
+              request the review of decisions made solely on the basis of the automated processing of your personal
+              information, which affect your interests. These include decisions to define your personal, professional,
+              consumer and credit profile, or aspects of your personality.
+            </li>
+          </ul>
+          <p>
+            You will never be discriminated against, or otherwise suffer any sort of detriment, if you exercise your rights.
+          </p>
+          <h3>
+            How to file your request
+          </h3>
+          <p>
+            You can file your express request to exercise your rights free from any charge, at any time, by using the
+            contact details provided at the start of this document, or via your legal representative.
+          </p>
+          <h3>
+            How and when we will respond to your request
+          </h3>
+          <p>
+            <strong>Prompt responses</strong>
+            <br></br>
+            We will strive to promptly respond to your requests. In any case, should it be impossible for us to do so, we’ll
+            make sure to communicate to you the factual or legal reasons that prevent us from immediately, or otherwise ever,
+            complying with your requests. In cases where we are not processing your personal information, we will indicate
+            to you the physical or legal person to whom you should address your requests, if we are in the position to do so.
+          </p>
+          <p>
+            <strong>Access or processing confirmation requests</strong>
+            <br></br>
+            If you file an access or personal information processing confirmation request, please make sure that you specify
+            whether you’d like your personal information to be delivered in electronic or printed form. You will also need to
+            let us know whether you want us to answer your request immediately, in which case we will answer in a simplified
+            fashion, or if you need a complete disclosure instead. In the latter case, we’ll respond within 15 days from the
+            time of your request, providing you with all the information on the origin of your personal information,
+            confirmation on whether records exist, any criteria used for the processing and the purposes of the processing,
+            while safeguarding our commercial and industrial secrets.
+          </p>
+          <p>
+            <strong>Rectification, deletion, anonymization or personal information blocking requests</strong>
+            <br></br>
+            If you file a rectification, deletion, anonymization or personal information blocking request, we will make sure
+            to immediately communicate your request to other parties with whom we have shared your personal information in
+            order to enable such third parties to also comply with your request — except in cases where such communication is
+            proven impossible or involves disproportionate effort on our side.
+          </p>
+          <h3>
+            Transfer of personal information outside of Brazil permitted by the law
+          </h3>
+          <p>
+            We are allowed to transfer your personal information outside of the Brazilian territory in the following cases:
+          </p>
+          <ul>
+            <li>
+              when the transfer is necessary for international legal cooperation between public intelligence, investigation
+              and prosecution bodies, according to the legal means provided by the international law;
+            </li>
+            <li>when the transfer is necessary to protect your life or physical security or those of a third party;</li>
+            <li>when the transfer is authorized by the ANPD;</li>
+            <li>when the transfer results from a commitment undertaken in an international cooperation agreement;</li>
+            <li>when the transfer is necessary for the execution of a public policy or legal attribution of public service;</li>
+            <li>
+              when the transfer is necessary for compliance with a legal or regulatory obligation, the carrying out of a
+              contract or preliminary procedures related to a contract, or the regular exercise of rights in judicial,
+              administrative or arbitration procedures.
+            </li>
+          </ul>
         </div>
       </>
     );
