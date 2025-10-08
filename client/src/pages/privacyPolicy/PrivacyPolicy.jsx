@@ -612,6 +612,310 @@ function PrivacyPolicy() {
               administrative or arbitration procedures.
             </li>
           </ul>
+
+          <h2 id="ppSec10">
+            Further information if you reside in California
+          </h2>
+          <h3>
+            About this section
+          </h3>
+          <p>
+            This section of the document integrates with and supplements the information contained in the rest of the privacy
+            policy and is provided by the business running this Website and, if the case may be, its parent, subsidiaries and
+            affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
+          </p>
+          <h4>
+            Applicability
+          </h4>
+          <p>
+            This section applies to all users (users are referred to below, simply as “you”, “your”, “yours”), who are
+            consumers residing in the state of California, United States of America, according to the "California Consumer
+            Privacy Act of 2018" (the "CCPA"), as updated by the "California Privacy Rights Act" (the "CPRA") and subsequent
+            regulations. For such consumers, this section supersedes any other possibly divergent or conflicting information
+            contained in the privacy policy.
+          </p>
+          <h4>
+            Definition
+          </h4>
+          <p>
+            This part of the document uses the term “personal information“ as defined in the California Consumer Privacy
+            Act(CCPA/CPRA).
+          </p>
+          <h3>
+            Categories of personal information that we collect
+          </h3>
+          <ul>
+            <li>
+              We have collected the following categories of personal information about you:
+              <ul>
+                <li>identifiers, and</li>
+                <li>internet or other electronic network activity information</li>
+              </ul>
+            </li>
+            <li>We do not collect sensitive personal information.</li>
+            <li>We will not collect additional categories of personal information without notifying you.</li>
+          </ul>
+          <h3>
+            What are the purposes for which we use your personal information?
+          </h3>
+          <p>
+            <strong>Business Purposes</strong>
+            <br></br>
+            We may use your personal information to allow the operational functioning of this website and features thereof.
+            In such cases, your personal information will be processed in a fashion necessary and proportionate to the
+            business purpose for which it was collected, and strictly within the limits of compatible operational purposes.
+          </p>
+          <p>
+            <strong>Commercial Purposes</strong>
+            <br></br>
+            We may also use your personal information for other reasons such as for commercial purposes, as well as for
+            complying with the law and defending our rights before the competent authorities where our rights and interests
+            are threatened, or we suffer an actual damage.
+          </p>
+          <p>
+            <strong>No unexpected or incompatible purposes</strong>
+            <br></br>
+            We won’t process your information for unexpected purposes, or for purposes incompatible with the purposes
+            originally disclosed, without your consent.
+          </p>
+          <h3>
+            How long do we keep your personal information?
+          </h3>
+          <p>
+            Unless stated otherwise inside the “Detailed information on the processing of personal data” section, we will
+            not retain your personal information for longer than is reasonably necessary for the purpose(s) they have been
+            collected for.
+          </p>
+          <h3>
+            What are the sources of the personal information we collect?
+          </h3>
+          <p>
+            We collect the above-mentioned categories of personal information, either directly or indirectly, from you when
+            you use this website.
+          </p>
+          <p>
+            <strong>Direct Collection:</strong> For example, you directly provide your personal information when you submit
+            requests via any forms on this website.
+          </p>
+          <p>
+            <strong>Indirect Collection:</strong> You also provide personal information indirectly when you navigate this
+            website, as personal information about you is automatically observed and collected.
+          </p>
+          <p>
+            <strong>Third Parties:</strong> Finally, we may collect your personal information from third parties that work
+            with us in connection with the service or with the functioning of this Application and features thereof.
+          </p>
+          <h3>
+            How we use the information we collect
+          </h3>
+          <p>
+            <strong>Disclosing of your personal information with third parties for a business purpose</strong>
+            <br></br>
+            For our purposes, the word “third party” means a person who is not any of the following: a service provider or a
+            contractor, as defined by the CCPA.
+            <br></br>
+            We disclose your personal information with the third parties listed in detail in the section titled “Detailed
+            information on the processing of personal data” within this document. These third parties are grouped and
+            categorized in accordance with the different purposes of processing.
+          </p>
+          <p>
+            <strong>Sale or sharing of your personal information</strong>
+            <br></br>
+            For our purposes, the word “sale” means any “selling, renting, releasing, disclosing, disseminating, making
+            available, transferring or otherwise communicating orally, in writing, or by electronic means, a consumer's
+            personal information by the business to a third party, for monetary or other valuable consideration”, as defined
+            by the CCPA.
+            <br></br>
+            This means that, for example, a sale can happen whenever an application runs ads, or makes statistical analyses
+            on the traffic or views, or simply because it uses tools such as social network plugins and the like.
+          </p>
+          <p>
+            For our purposes, the word “sharing” means any “sharing, renting, releasing, disclosing, disseminating, making
+            available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a
+            consumer's personal information by the business to a third party for cross-context behavioral advertising,
+            whether or not for monetary or other valuable consideration, including transactions between a business and a
+            third party for cross-context behavioral advertising for the benefit of a business in which no money is
+            exchanged”, as defined by the CCPA. Please note that the exchange of personal information with a service
+            provider pursuant to a written contract that meets the requirements set by the CCPA, does not constitute a sale
+            or sharing of your personal information.
+          </p>
+          <h3>
+            Opt-Out Rights
+          </h3>
+          <p>
+            We sell or share your personal information with the third parties listed in detail in the section titled
+            “Detailed information on the processing of personal data” within this document. These third parties are grouped
+            and categorized in accordance with the different purposes of processing. 
+          </p>
+          <p>
+            You have the right to opt out of the sale or sharing of your personal information. This means that whenever you
+            request us to stop selling or sharing your personal information, we will abide by your request. Such requests can
+            be made freely, at any time, without submitting any verifiable request. To fully exercise your right to opt out,
+            you can contact us at any time using the contact details provided at the start of this document. For a simplified
+            opt-out method you can also use the privacy choices link provided on this website.
+          </p>
+          <p>
+            If you want to submit requests to opt out of the sale or sharing of personal information via a user-enabled global
+            privacy control, like the Global Privacy Control (“GPC”), you are free to do so and we will abide by such request
+            in a frictionless manner (as defined in the CPRA regulations). The GPC consists of a setting or extension in the
+            browser or mobile device and acts as a mechanism that websites can use to indicate they support the GPC signal.
+            If you want to use GPC, you can download and enable it via a participating browser or browser extension. More
+            information about downloading GPC is available here.
+          </p>
+          <p>
+            We use any personal information collected from you in connection with the submission of your opt-out request
+            solely for the purposes of complying with the opt-out request. Once you have opted out, we are required to wait
+            at least 12 months before asking whether you have changed your mind.
+          </p>
+          <h3>
+            Your privacy rights under the California Consumer Privacy Act and how to exercise them
+          </h3>
+          <p>
+            The right to access personal information: the right to know and to portability
+          </p>
+          <p>
+            You have the right to request that we disclose to you:
+          </p>
+          <ul>
+            <li>the categories of personal information that we collect about you;</li>
+            <li>the sources from which the personal information is collected;</li>
+            <li>the purposes for which we use your information;</li>
+            <li>to whom we disclose such information;</li>
+            <li>the specific pieces of personal information we have collected about you.</li>
+          </ul>
+          <p>
+            You also have <strong>the right to know what personal information is sold or shared and to whom.</strong> In
+            particular, you have the right to request two separate lists from us where we disclose:
+          </p>
+          <ul>
+            <li>
+              the categories of personal information that we sold or shared about you and the categories of third parties
+              to whom the personal information was sold or shared;
+            </li>
+            <li>
+              the categories of personal information that we disclosed about you for a business purpose and the categories
+              of persons to whom it was disclosed for a business purpose.
+            </li>
+          </ul>
+          <p>
+            The disclosure described above will be limited to the personal information collected or used over the past 12
+            months.
+          </p>
+          <p>
+            If we deliver our response electronically, the information enclosed will be "portable", i.e. delivered in an
+            easily usable format to enable you to transmit the information to another entity without hindrance — provided
+            that this is technically feasible.
+          </p>
+          <p>
+            <strong>The right to request the deletion of your personal information</strong>
+            <br></br>
+            You have the right to request that we delete any of your personal information, subject to exceptions set forth
+            by the law (such as, including but not limited to, where the information is used to identify and repair errors
+            on this website, to detect security incidents and protect against fraudulent or illegal activities, to exercise
+            certain rights etc.).
+          </p>
+          <p>
+            If no legal exception applies, as a result of exercising your right, we will delete your personal information
+            and notify any of our service providers and all third parties to whom we have sold or shared the personal
+            information to do so — provided that this is technically feasible and doesn’t involve disproportionate effort.
+          </p>
+          <p>
+            <strong>The right to correct inaccurate personal information</strong>
+            <br></br>
+            You have the right to request that we correct any inaccurate personal information we maintain about you,
+            considering the nature of the personal information and the purposes of the processing of the personal
+            information.
+          </p>
+          <p>
+            <strong>The right to opt out of sale or sharing of personal information and to limit the use of your sensitive
+            personal information</strong>
+            <br></br>
+            You have the right to opt out of the sale or sharing of your personal information. You also have the right to
+            request that we limit our use or disclosure of your sensitive personal information.
+          </p>
+          <p>
+            <strong>The right of no retaliation following opt-out or exercise of other rights (the right to
+            non-discrimination)</strong>
+            <br></br>
+            We will not discriminate against you for exercising your rights under the CCPA. This means that we will not
+            discriminate against you, including, but not limited to, by denying goods or services, charging you a different
+            price, or providing a different level or quality of goods or services just because you exercised your consumer
+            privacy rights.
+            <br></br>
+            However, if you refuse to provide your personal information to us or ask us to delete or stop selling your
+            personal information, and that personal information or sale is necessary for us to provide you with goods or
+            services, we may not be able to complete that transaction.
+            <br></br>
+            To the extent permitted by the law, we may offer you promotions, discounts, and other deals in exchange for
+            collecting, keeping, or selling your personal information, provided that the financial incentive offered is
+            reasonably related to the value of your personal information.
+          </p>
+          <p>
+            <strong>How to exercise your rights</strong>
+          </p>
+          <ul>
+            <li>
+              To exercise the rights described above, you need to submit your verifiable request to us by contacting us via
+              the details provided at the start of this document.
+            </li>
+            <li>
+              For us to respond to your request, it’s necessary that we know who you are. Therefore, you can only exercise
+              the above rights by making a verifiable request which must:
+              <ul>
+                <li>
+                  provide sufficient information that allows us to reasonably verify you are the person about whom we
+                  collected personal information or an authorized representative;
+                </li>
+                <li>
+                  describe your request with sufficient detail that allows us to properly understand, evaluate, and respond
+                  to it.
+                </li>
+              </ul>
+            </li>
+            <li>
+              We will not respond to any request if we are unable to verify your identity and therefore confirm the personal
+              information in our possession actually relates to you.
+            </li>
+            <li>
+              Making a verifiable consumer request does not require you to create an account with us. We will use any
+              personal information collected from you in connection with the verification of your request solely for the
+              purposes of verification and shall not further disclose the personal information, retain it longer than
+              necessary for purposes of verification, or use it for unrelated purposes.
+            </li>
+            <li>
+              If you cannot personally submit a verifiable request, you can authorize a person registered with the
+              California Secretary of State to act on your behalf.
+            </li>
+            <li>
+              If you are an adult, you can make a verifiable request on behalf of a child under your parental authority.
+            </li>
+            <li>You can submit a maximum number of 2 requests over a period of 12 months.</li>
+          </ul>
+          <p>
+            <strong>How and when we are expected to handle your request</strong>
+          </p>
+          <ul>
+            <li>
+              We will confirm receipt of your verifiable request within 10 days and provide information about how we will
+              process your request.
+            </li>
+            <li>
+              We will respond to your request within 45 days of its receipt. Should we need more time, we will explain to
+              you the reasons why, and how much more time we need. In this regard, please note that we may take up to 90
+              days to fulfill your request.
+            </li>
+            <li>Our disclosure(s) will cover the preceding 12-month period. Only with regard to personal information
+              collected on or after January 1, 2022, you have the right to request that we disclose information beyond the
+              12-month period, and we will provide them to you unless doing so proves impossible or would involve a
+              disproportionate effort.
+            </li>
+            <li>Should we deny your request, we will explain you the reasons behind our denial.</li>
+            <li>
+              We do not charge a fee to process or respond to your verifiable request unless such request is manifestly
+              unfounded or excessive. In such cases, we may charge a reasonable fee, or refuse to act on the request. In
+              either case, we will communicate our choices and explain the reasons behind it.
+            </li>
+          </ul>
         </div>
       </>
     );
