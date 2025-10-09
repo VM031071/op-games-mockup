@@ -916,6 +916,173 @@ function PrivacyPolicy() {
               either case, we will communicate our choices and explain the reasons behind it.
             </li>
           </ul>
+          
+          <h2 id="ppSec11">
+            Further information if you reside in Virginia
+          </h2>
+          <p>
+            This section of the document integrates with and supplements the information contained in the rest of the
+            privacy policy and is provided by the controller running this Application and, if the case may be, its parent,
+            subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
+          </p>
+          <p>
+            This section applies to you if you reside in the Commonwealth of Virginia, according to the “Virginia Consumer
+            data Protection Act" (the "VCDPA"), and, it supersedes any other possibly divergent or conflicting information
+            contained in the privacy policy. This part of the document uses the term “personal data” as defined in the VCDPA.
+          </p>
+          <h3>
+            Categories of personal data processed
+          </h3>
+          <p>
+            You can read about these activities in detail in the section titled “Detailed information on the processing of
+            personal data” within this document.
+          </p>
+          <h3>
+            Types of personal data we collect
+          </h3>
+          <ul>
+            <li>We have collected the following categories of personal data: identifiers and internet information</li>
+            <li>We do not collect sensitive data.</li>
+            <li>We will not collect additional categories of personal data without notifying you.</li>
+          </ul>
+          <h3>
+            Why we process your personal data
+          </h3>
+          <p>
+            To find out why we process your personal data, you can read the sections titled “Detailed information on the
+            processing of personal data” and “The purposes of processing” within this document.
+            <br></br>
+            We won’t process your information for unexpected purposes, or for purposes incompatible with the purposes
+            originally disclosed, without your consent. You can freely give, deny, or withdraw such consent at any time
+            using the contact details provided at the start of this document.
+          </p>
+          <h3>
+            How we use the data we collect: sharing of your personal data with third parties
+          </h3>
+          <p>
+            We share your personal data with the third parties listed in detail in the section titled “Detailed information
+            on the processing of personal data” within this document. These third parties are grouped and categorized in
+            accordance with the different purposes of processing. For our purposes, the word "third party" means "a natural
+            or legal person, public authority, agency, or body other than the consumer, controller, processor, or an
+            affiliate of the processor or the controller" as defined by the VCDPA.
+          </p>
+          <h3>
+            Sale of your personal data
+          </h3>
+          <p>
+            For our purposes, the word “sale” means any “exchange of personal data for monetary consideration by us to a
+            third party” as defined by the VCDPA. Please note that according to the VCDPA, the disclosure of personal data
+            to a processor that processes personal data on behalf of a controller does not constitute a sale. In addition,
+            other specific exceptions set forth in the VCDPA may apply, such as, but not limited to, the disclosure of
+            personal data to a third party for the provision of a product or service requested by you. As specified in the
+            “Detailed information on the processing of personal data” section of this document, our use of your personal
+            information may be considered a sale under VCDPA.
+          </p>
+          <h3>
+            Your right to opt out of the sale of your personal data and how you can exercise it
+          </h3>
+          <p>
+            You have the right to opt out of the sale of your personal data. This means that whenever you request us to stop
+            selling your data, we will abide by your request. To fully exercise your right to opt out you can contact us at
+            any time using the contact details provided at the start of this document.
+            <br></br>
+            We use any personal data collected from you in connection with the submission of your opt-out request solely for
+            the purpose of complying with the request.
+          </p>
+          <h3>
+            Processing of your personal data for targeted advertising
+          </h3>
+          <p>
+            We do not process your personal data for targeted advertising. If we decide to do so, we will inform you
+            beforehand and will grant your right to opt out of the processing of your personal data for targeted advertising.
+          </p>
+          <h3>
+            Your privacy rights under the Virginia Consumer data Protection Act and how to exercise them
+          </h3>
+          <p>
+            You may exercise certain rights regarding your data processed by us. You have the right to do the following:
+          </p>
+          <ul>
+            <li>
+              <strong>access personal data: the right to know.</strong> You have the right to request that we confirm
+              whether we are processing your personal data. You also have the right to access such personal data.
+            </li>
+            <li>
+              <strong>correct inaccurate personal data.</strong> You have the right to request that we correct any
+              inaccurate personal data we maintain about you, considering the nature of the personal data and the purposes
+              of the processing of the personal data.
+            </li>
+            <li>
+              <strong>request the deletion of your personal data.</strong> You have the right to request that we delete any
+              of your personal data.
+            </li>
+            <li>
+              <strong>obtain a copy of your personal data.</strong> We will provide your personal data in a portable and
+              usable format that allows you to transfer data easily to another entity — if this is technically feasible.
+            </li>
+            <li>
+              <strong>opt out of the processing of your personal data for the purposes of targeted advertising,</strong>
+              the <strong>sale of personal data,</strong> or <strong>profiling</strong> in furtherance of decisions that
+              produce legal or similarly significant effects concerning you.
+            </li>
+            <li>
+              <strong>non-discrimination.</strong> We will not discriminate against you for exercising your rights under
+              the VCDPA. This means that we will not, among other things, deny goods or services, charge you a different
+              price, or provide a different level or quality of goods or services just because you exercised your consumer
+              privacy rights. However, if you refuse to provide your personal data to us or ask us to delete or stop selling
+              your personal data, and that personal data or sale is necessary for us to provide you with goods or services,
+              we may not be able to complete that transaction. To the extent permitted by the law, we may offer a different
+              price, rate, level, quality, or selection of goods or services to you, including offering goods or services
+              for no fee, if you have exercised your right to opt out, or our offer is related to your voluntary
+              participation in a bona fide loyalty, rewards, premium features, discounts, or club card program.
+            </li>
+          </ul>
+          <h3>
+            How to exercise your rights
+          </h3>
+          <ul>
+            <li>
+              To exercise the rights described above, you need to submit your request to us by contacting us via the contact
+              details provided at the start of this document.
+            </li>
+            <li>For us to respond to your request, we need to know who you are.</li>
+            <li>
+              We will not respond to any request if we are unable to verify your identity using commercially reasonable
+              efforts and therefore confirm that the personal data in our possession relates to you. In such cases, we may
+              request that you provide additional information which is reasonably necessary to authenticate you and your
+              request.
+            </li>
+            <li>
+              Making a consumer request does not require you to create an account with us. However, we may require you to
+              use your existing account. We will use any personal data collected from you in connection with your request
+              solely for the purposes of authentication, without further disclosing the personal data, retaining it longer
+              than necessary for purposes of authentication, or using it for unrelated purposes.
+            </li>
+            <li>If you are an adult, you can make a request on behalf of a child under your parental authority.</li>
+          </ul>
+          <h3>
+            How and when we are expected to handle your request
+          </h3>
+          <ul>
+            <li>
+              We will respond to your request without undue delay, but in all cases and at the latest within 45 days of its
+              receipt. Should we need more time, we will explain to you the reasons why, and how much more time we need. In
+              this regard, please note that we may take up to 90 days to fulfill your request.
+            </li>
+            <li>
+              Should we deny your request, we will explain to you the reasons behind our denial without undue delay, but in
+              all cases and at the latest within 45 days of receipt of the request. It is your right to appeal such decision
+              by submitting a request to us via the details provided in this document. Within 60 days of receipt of the
+              appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a
+              written explanation of the reasons for the decisions. If the appeal is denied you may contact the Attorney
+              General to submit a complaint.
+            </li>
+            <li>
+              We do not charge a fee to respond to your request, for up to two requests per year. If your request is
+              manifestly unfounded, excessive or repetitive, we may charge a reasonable fee or refuse to act on the request.
+              In either case, we will communicate our choices and explain the reasons behind them.
+            </li>
+          </ul>
         </div>
       </>
     );
