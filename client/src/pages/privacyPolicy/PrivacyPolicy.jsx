@@ -13,7 +13,7 @@ function PrivacyPolicy() {
             Privacy Policy of <Link to="../">https://overpowered-games.com</Link>
           </h1>
           <p>
-            Last updated: June 2025
+            Last updated: October 2025
           </p>
           <p>
             We are Overpowered Games. This privacy policy outlines how we collect, use, and protect your personal
@@ -1083,6 +1083,615 @@ function PrivacyPolicy() {
               In either case, we will communicate our choices and explain the reasons behind them.
             </li>
           </ul>
+
+          <h2 id="ppSec12">
+            Further information if you reside in Colorado
+          </h2>
+          <p>
+            This section of the document integrates with and supplements the information contained in the rest of the
+            privacy policy and is provided by the controller running this website and, if the case may be, its parent,
+            subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
+          </p>
+          <p>
+            This section applies to you if you reside in the State of Colorado, according to the “Colorado Privacy Act"
+            (the "CPA"), and, supersedes any other possibly divergent or conflicting information contained in the privacy
+            policy.
+            <br></br>
+            This part of the document uses the term “personal data” as defined in the CPA.
+          </p>
+          <h3>
+            Categories of personal data processed
+          </h3>
+          <p>
+            In this section, we summarize the categories of personal data that we've processed and the purposes thereof. You
+            can read about these activities in detail in the section titled “Detailed information on the processing of
+            personal data” within this document.
+          </p>
+          <h3>
+            Categories of personal data we collect
+          </h3>
+          <ul>
+            <li>We have collected the following categories of personal data: identifiers and internet information</li>
+            <li>We do not collect sensitive data.</li>
+            <li>We will not collect additional categories of personal data without notifying you.</li>
+          </ul>
+          <h3>
+            Why we process your personal data
+          </h3>
+          <p>
+            To find out why we process your personal data, you can read the sections titled “Detailed information on the
+            processing of personal data” and “The purposes of processing” within this document.
+            <br></br>
+            We won’t process your information for unexpected purposes, or for purposes incompatible with the purposes
+            originally disclosed, without your consent. You can freely give, deny, or withdraw such consent at any time
+            using the contact details provided at the start of this document.
+          </p>
+          <h3>
+            How we use the data we collect: sharing of your personal data with third parties
+          </h3>
+          <p>
+            We share your personal data with the third parties listed in detail in the section titled “Detailed information
+            on the processing of personal data” within this document. These third parties are grouped and categorized in
+            accordance with the different purposes of processing.
+            <br></br>
+            For our purposes, the word "third party" means "a person, public authority, agency, or body other than a
+            consumer, controller, processor, or affiliate of the processor or the controller." as defined by the CPA.
+          </p>
+          <h3>
+            Sale of your personal data
+          </h3>
+          <p>
+            As specified in the “Detailed information on the processing of personal data” section of this document, our use
+            of your personal data may be considered a sale under the CPA.
+            For our purposes, the word "sale", "sell", or "sold" means "the exchange of personal data for monetary or other
+            valuable consideration by a controller to a third party" as defined by the CPA.
+            Please note that according to the CPA, the disclosure of personal data to a processor that processes personal
+            data on behalf of a controller does not constitute a sale. In addition, other specific exceptions set forth in
+            the CPA may apply, such as, but not limited to, the disclosure of personal data to a third party for the
+            provision of a product or service requested by you.
+          </p>
+          <h3>
+            Your right to opt out of the sale of your personal data and how you can exercise it
+          </h3>
+          <p>
+            You have the right to opt out of the sale of your personal data. This means that whenever you request us to stop
+            selling your data, we will abide by your request.
+            <br></br>
+            To fully exercise your right to opt out you can contact us at any time, using the contact details provided at
+            the start of this document.
+            <br></br>
+            For a simplified opt-out method you can also use the privacy choices link provided on this website.
+            <br></br>
+            We use any personal data collected from you in connection with the submission of your opt-out request solely for
+            the purpose of complying with the request.
+          </p>
+          <h3>
+            Processing of your personal data for targeted advertising
+          </h3>
+          <p>
+            We do not process your personal data for targeted advertising. If we decide to do so, we will inform you
+            beforehand and will grant your right to opt out of the processing of your personal data for targeted advertising.
+            <br></br>
+            For our purposes, the word "targeted advertising" means "displaying to a consumer an advertisement that is
+            selected based on personal data obtained or inferred over time from the consumer's activities across
+            non-affiliated websites, applications, or online services to predict consumer preferences or interests" as
+            defined by CPA. Please note that according to the CPA, targeted advertising does not include: “advertisements
+            directed to a consumer in response to the consumer's request for information or feedback; advertisements based
+            on activities within a controller's own websites or online applications or any affiliated website or online
+            application; advertisements based on the context of a consumer's current search query, visit to an internet web
+            site or online application; or processing personal data solely to measure or report advertising frequency,
+            performance or reach”.
+          </p>
+          <h3>
+            Universal opt-out mechanism: Global privacy control
+          </h3>
+          <p>
+            If you want to submit requests to opt-out of the targeted advertising via a user-enabled global privacy control,
+            like the Global Privacy Control (“GPC”), you are free to do so and we will abide by such request. The GPC
+            consists of a setting or extension in the browser or mobile device and acts as a mechanism that websites can use
+            to indicate they support the GPC signal. If you want to use GPC, you can download and enable it via a
+            participating browser or browser extension. More information about downloading GPC is available here.
+          </p>
+          <h3>
+            Your privacy rights under the Colorado Privacy Act and how to exercise them
+          </h3>
+          <p>
+            You may exercise certain rights regarding your data processed by us. In particular, you have the right to do the
+            following:
+          </p>
+          <ul>
+            <li>
+              opt out of the processing of your personal data for the purposes of targeted advertising, the sale of personal
+              data, or profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
+            </li>
+            <li>
+              access personal data. You have the right to request that we confirm whether or not we are processing your
+              personal data. You also have the right to access such personal data.
+            </li>
+            <li>
+              correct inaccurate personal data. You have the right to request that we correct any inaccurate personal data
+              we maintain about you, taking into account the nature of the personal data and the purposes of the processing
+              of the personal data.
+            </li>
+            <li>
+              request the deletion of your personal data. You have the right to request that we delete any of your personal data.
+            </li>
+            <li>
+              obtain a copy of your personal data. We will provide your personal data in a portable and usable format that
+              allows you to transfer data easily to another entity – provided that this is technically feasible.
+            </li>
+          </ul>
+          <p>
+            In any case, we will not increase the cost of, or decrease the availability of, a product or service, based
+            solely on the exercise of any of your rights and unrelated to the feasibility or the value of a service.
+            However, to the extent permitted by the law, we may offer a different price, rate, level, quality, or selection
+            of goods or services to you, including offering goods or services for no fee, if our offer is related to your
+            voluntary participation in a bona fide loyalty, rewards, premium features, discounts, or club card program.
+          </p>
+          <h3>
+            How to exercise your rights
+          </h3>
+          <ul>
+            <li>
+              To exercise the rights described above, you need to submit your request to us by contacting us via the contact
+              details provided at the start of this document.
+            </li>
+            <li>For us to respond to your request, we need to know who you are and which right you wish to exercise.</li>
+            <li>
+              We will not respond to any request if we are unable to verify your identity using commercially reasonable
+              efforts and therefore confirm that the personal data in our possession relates to you. In such cases, we may
+              request that you provide additional information which is reasonably necessary to authenticate you and your request.
+            </li>
+            <li>
+              Making a consumer request does not require you to create an account with us. However, we may require you to
+              use your existing account. We will use any personal data collected from you in connection with your request
+              solely for the purposes of authentication, without further disclosing the personal data, retaining it longer
+              than necessary for purposes of authentication, or using it for unrelated purposes.
+            </li>
+            <li>If you are an adult, you can make a request on behalf of a child under your parental authority.</li>
+          </ul>
+          <h3>
+            How and when we are expected to handle your request
+          </h3>
+          <ul>
+            <li>
+              We will respond to your request without undue delay, but in all cases and at the latest within 45 days of its
+              receipt. Should we need more time, we will explain to you the reasons why, and how much more time we need. In
+              this regard, please note that we may take up to 90 days to fulfill your request.
+            </li>
+            <li>
+              Should we deny your request, we will explain to you the reasons behind our denial without undue delay, but in
+              all cases and at the latest within 45 days of receipt of the request. It is your right to appeal such decision
+              by submitting a request to us via the details provided in this document. Within 45 days of receipt of the
+              appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a
+              written explanation of the reasons for the decisions. If the appeal is denied you may contact the Attorney
+              General to submit a complaint.
+            </li>
+            <li>We do not charge a fee to respond to your request, for up to two requests per year.</li>
+          </ul>
+
+          <h2 id="ppSec13">
+            Further information if you reside in Connecticut
+          </h2>
+          <p>
+            This section of the document integrates with and supplements the information contained in the rest of the
+            privacy policy and is provided by the controller running this website and, if the case may be, its parent,
+            subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
+          </p>
+          <p>
+            This section applies to you if you reside in the State of Connecticut, according to “An Act Concerning personal
+            data Privacy and Online Monitoring " (also known as "The Connecticut data Privacy Act" or the “CTDPA"), and,
+            for such consumers, it supersedes any other possibly divergent or conflicting information contained in the
+            privacy policy.
+            <br></br>
+            This part of the document uses the term “personal data” as defined in the CTDPA.
+          </p>
+          <h3>
+            Categories of personal data processed
+          </h3>
+          <p>
+            You can read about these activities in detail in the section titled “Detailed information on the processing of
+            personal data” within this document.
+          </p>
+          <h3>
+            Categories of personal data we collect
+          </h3>
+          <ul>
+            <li>We have collected the following categories of personal data: identifiers and internet information</li>
+            <li>We do not collect sensitive data.</li>
+            <li>We will not collect additional categories of personal data without notifying you.</li>
+          </ul>
+          <h3>
+            Why we process your personal data
+          </h3>
+          <p>
+            To find out why we process your personal data, you can read the sections titled “Detailed information on the
+            processing of personal data” and “The purposes of processing” within this document.
+            <br></br>
+            We won’t process your information for unexpected purposes, or for purposes incompatible with the purposes
+            originally disclosed, without your consent. You can freely give, deny, or withdraw such consent at any time
+            using the contact details provided at the start of this document.
+          </p>
+          <h3>
+            How we use the data we collect: sharing of your personal data with third parties
+          </h3>
+          <p>
+            We share your personal data with the third parties listed in detail in the section titled “Detailed information
+            on the processing of personal data” within this document. These third parties are grouped and categorized in
+            accordance with the different purposes of processing.
+            <br></br>
+            For our purposes, the word "third party" means "a person, public authority, agency, or body other than a
+            consumer, controller, processor, or affiliate of the processor or the controller." as defined by the CTDPA.
+          </p>
+          <h3>
+            Sale of your personal data
+          </h3>
+          <p>
+            As specified in the “Detailed information on the processing of personal data” section of this document, our use
+            of your personal data may be considered a sale under the CTDPA.
+            <br></br>
+            For our purposes, the word "sale", "sell", or "sold" means "the exchange of personal data for monetary or other
+            valuable consideration by a controller to a third party" as defined by the CTDPA.
+            <br></br>
+            Please note that according to the CTDPA, the disclosure of personal data to a processor that processes personal
+            data on behalf of a controller does not constitute a sale. In addition, other specific exceptions set forth in
+            the CTDPA may apply, such as, but not limited to, the disclosure of personal data to a third party for the
+            provision of a product or service requested by you.
+          </p>
+          <h3>
+            Your right to opt out of the sale of your personal data and how you can exercise it
+          </h3>
+          <p>
+            You have the right to opt out of the sale of your personal data. This means that whenever you request us to stop
+            selling your data, we will abide by your request.
+            <br></br>
+            To fully exercise your right to opt out you can contact us at any time, using the contact details provided at
+            the start of this document.
+            <br></br>
+            For a simplified opt-out method you can also use the privacy choices link provided on this website.
+            <br></br>
+            We use any personal data collected from you in connection with the submission of your opt-out request solely for
+            the purpose of complying with the request.
+          </p>
+          <h3>
+            Processing of your personal data for targeted advertising
+          </h3>
+          <p>
+            We do not process your personal data for targeted advertising. If we decide to do so, we will inform you
+            beforehand and will grant your right to opt out of the processing of your personal data for targeted advertising.
+            <br></br>
+            For our purposes, the word "targeted advertising" means "displaying to a consumer an advertisement that is
+            selected based on personal data obtained or inferred over time from the consumer's activities across
+            non-affiliated websites, applications, or online services to predict consumer preferences or interests" as
+            defined by CTDPA. Please note that according to the CTDPA, targeted advertising does not include:
+            “advertisements based on activities within a controller’s own web sites or online applications; advertisements
+            based on the context of a consumer's current search query, visit to an internet web site or online application;
+            advertisements directed to a consumer in response to the consumer's request for information or feedback; or
+            processing personal data solely to measure or report advertising frequency, performance or reach”.
+          </p>
+          <h3>
+            Universal opt-out mechanism: Global Privacy Control
+          </h3>
+          <p>
+            If you want to submit requests to opt-out of the targeted advertising via a user-enabled global privacy control,
+            like the Global Privacy Control (“GPC”), you are free to do so and we will abide by such request. The GPC
+            consists of a setting or extension in the browser or mobile device and acts as a mechanism that websites can use
+            to indicate they support the GPC signal. If you want to use GPC, you can download and enable it via a
+            participating browser or browser extension. More information about downloading GPC is available here.
+          </p>
+          <h3>
+            Your privacy rights under the Connecticut Data Privacy Act and how to exercise them
+          </h3>
+          <p>
+            You may exercise certain rights regarding your data processed by us. In particular, you have the right to do the
+            following:
+            <br></br>
+            access personal data. You have the right to request that we confirm whether we are processing your personal
+            data. You also have the right to access such personal data.
+            <br></br>
+            correct inaccurate personal data. You have the right to request that we correct any inaccurate personal data we
+            maintain about you, considering the nature of the personal data and the purposes of the processing of the
+            personal data.
+            <br></br>
+            request the deletion of your personal data. You have the right to request that we delete any of your personal data.
+            <br></br>
+            obtain a copy of your personal data. We will provide your personal data in a portable and usable format that
+            allows you to transfer data easily to another entity – if this is technically feasible.
+            <br></br>
+            opt out of the processing of your personal data for the purposes of targeted advertising, the sale of personal
+            data, or profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
+          </p>
+          <p>
+            In any case, we will not increase the cost of, or decrease the availability of, a product or service, based
+            solely on the exercise of any of your rights and unrelated to the feasibility or the value of a service.
+            However, to the extent permitted by the law, we may offer a different price, rate, level, quality, or selection
+            of goods or services to you, including offering goods or services for no fee, if our offer is related to your
+            voluntary participation in a bona fide loyalty, rewards, premium features, discounts, or club card program.
+          </p>
+          <h3>
+            How to exercise your rights
+          </h3>
+          <ul>
+            <li>
+              To exercise the rights described above, you need to submit your request to us by contacting us via the contact
+              details provided at the start of this document.
+            </li>
+            <li>For us to respond to your request, we need to know who you are and which right you wish to exercise.</li>
+            <li>
+              We will not respond to any request if we are unable to verify your identity using commercially reasonable
+              efforts and therefore confirm that the personal data in our possession actually relate to you. In such cases,
+              we may request that you provide additional information which is reasonably necessary to authenticate you and
+              your request.
+            </li>
+            <li>
+              Making a consumer request does not require you to create an account with us. However, we may require you to
+              use your existing account. We will use any personal data collected from you in connection with your request
+              solely for the purposes of authentication, without further disclosing the personal data, retaining it longer
+              than necessary for purposes of authentication, or using it for unrelated purposes.
+            </li>
+            <li>If you are an adult, you can make a request on behalf of a child under your parental authority.</li>
+          </ul>
+          <h3>
+            How and when we are expected to handle your request
+          </h3>
+          <ul>
+            <li>
+              We will respond to your request without undue delay, but in all cases and at the latest within 45 days of its
+              receipt. Should we need more time, we will explain to you the reasons why, and how much more time we need. In
+              this regard, please note that we may take up to 90 days to fulfill your request.
+            </li>
+            <li>
+              Should we deny your request, we will explain to you the reasons behind our denial without undue delay, but in
+              all cases and at the latest within 45 days of receipt of the request. It is your right to appeal such decision
+              by submitting a request to us via the details provided in this document. Within 45 days of receipt of the
+              appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a
+              written explanation of the reasons for the decisions. If the appeal is denied, you may contact the Attorney
+              General to submit a complaint.
+            </li>
+            <li>We do not charge a fee to respond to your request, for up to one request per year.</li>
+          </ul>
+
+          <h2 id="ppSec14">
+            Further information for Utah consumers
+          </h2>
+          <p>
+            This section of the document integrates with and supplements the information contained in the rest of the
+            privacy policy and is provided by the controller running this website and, if the case may be, its parent,
+            subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
+            <br></br>
+            This section applies to you if you reside in the State of Utah, according to the “Consumer Privacy Act"(the
+            “UCPA"), and, it supersedes any other possibly divergent or conflicting information contained in the privacy
+            policy.
+            <br></br>
+            This part of the document uses the term “personal data” as defined in the UCPA.
+          </p>
+          <h3>
+            Categories of personal data processed
+          </h3>
+          <p>
+            You can read about these activities in detail in the section titled “Detailed information on the processing of
+            personal data” within this document.
+          </p>
+          <h3>
+            Categories of personal data we collect
+          </h3>
+          <ul>
+            <li>We have collected the following categories of personal data: identifiers and internet information</li>
+            <li>We do not collect sensitive data.</li>
+            <li>We will not collect additional categories of personal data without notifying you.</li>
+          </ul>
+          <h3>
+            Why we process your personal data
+          </h3>
+          <p>
+            To find out why we process your personal data, you can read the sections titled “Detailed information on the
+            processing of personal data” and “The purposes of processing” within this document.
+          </p>
+          <h3>
+            How we use the data we collect: sharing of your personal data with third parties
+          </h3>
+          <p>
+            We share your personal data with the third parties listed in detail in the section titled “Detailed information
+            on the processing of personal data” within this document. These third parties are grouped and categorized in
+            accordance with the different purposes of processing.
+          </p>
+          <p>
+            For our purposes, the word "third party" means "a person other than: the consumer, controller, or processor; or
+            an affiliate or contractor of the controller or the processor" as defined by the UCPA.
+          </p>
+          <h3>
+            Sale of your personal data
+          </h3>
+          <p>
+            As specified in the “Detailed information on the processing of personal data” section of this document, our use
+            of your personal data may be considered a sale under the UCPA.
+            <br></br>
+            For our purposes, the word "sale", "sell", or "sold" means "the exchange of personal data for monetary or other
+            valuable consideration by a controller to a third party" as defined by the UCPA.
+            <br></br>
+            Please note that according to the UCPA, the disclosure of personal data to a processor that processes personal
+            data on behalf of a controller does not constitute a sale. In addition, other specific exceptions set forth in
+            the UCPA may apply, such as, but not limited to, the disclosure of personal data to a third party for the
+            provision of a product or service requested by you.
+          </p>
+          <h3>
+            Your right to opt out of the sale of your personal data and how you can exercise it
+          </h3>
+          <p>
+            You have the right to opt out of the sale of your personal data. This means that whenever you request us to stop
+            selling your data, we will abide by your request.
+            <br></br>
+            To fully exercise your right to opt out you can contact us at any time, using the contact details provided at
+            the start of this document.
+            <br></br>
+            For a simplified opt-out method you can also use the privacy choices link provided on this website.
+            <br></br>
+            We use any personal data collected from you in connection with the submission of your opt-out request solely for
+            the purpose of complying with the request.
+          </p>
+          <h3>
+            Processing of your personal data for targeted advertising
+          </h3>
+          <p>
+            We do not process your personal data for targeted advertising. If we decide to do so, we will inform you
+            beforehand and will grant your right to opt out of the processing of your personal data for targeted advertising.
+            <br></br>
+            For our purposes, the word "targeted advertising" means "displaying to a consumer an advertisement that is
+            selected based on personal data obtained or inferred over time from the consumer's activities across
+            non-affiliated websites, applications, or online services to predict consumer preferences or interests" as
+            defined by UCPA. Please note that according to the UCPA, targeted advertising does not include: “advertisements
+            based on activities within a controller’s own websites or online applications or any affiliated website or
+            online application; advertisements based on the context of a consumer's current search query, visit to a web
+            site or online application; advertisements directed to a consumer in
+            <br></br>
+            response to the consumer's request for information, product, a service or feedback; or processing personal data
+            solely to measure or report advertising performance, reach or frequency.”
+          </p>
+          <h3>
+            Your privacy rights under the Utah Consumer Privacy Act and how to exercise them
+          </h3>
+          <p>
+            You may exercise certain rights regarding your data processed by us. You have the right to do the following:
+            <br></br>
+            access personal data. You have the right to request that we confirm whether we are processing your personal
+            data. You also have the right to access such personal data.
+            <br></br>
+            request the deletion of your personal data. You have the right to request that we delete any of your personal data.
+            <br></br>
+            obtain a copy of your personal data. We will provide your personal data in a portable and usable format that
+            allows you to transfer data easily to another entity – provided that this is technically feasible.
+            <br></br>
+            opt out of the processing of your personal data for the purposes of targeted advertising or the sale of
+            personal data.
+          </p>
+          <p>
+            In any case, we will not increase the cost of, or decrease the availability of, a product or service, based
+            solely on the exercise of any of your rights and unrelated to the feasibility or the value of a service.
+            However, to the extent permitted by the law, we may offer a different price, rate, level, quality, or selection
+            of goods or services to you, including offering goods or services for no fee, if our offer is related to your
+            voluntary participation in a bona fide loyalty, rewards, premium features, discounts, or club card program.
+          </p>
+          <h3>
+            How to exercise your rights
+          </h3>
+          <ul>
+            <li>
+              To exercise the rights described above, you need to submit your request to us by contacting us via the contact
+              details provided at the start of this document.
+            </li>
+            <li>For us to respond to your request, we need to know who you are and which right you wish to exercise.</li>
+            <li>
+              We will not respond to any request if we are unable to verify your identity using commercially reasonable
+              efforts and therefore confirm that the personal data in our possession actually relate to you. In such cases,
+              we may request that you provide additional information which is reasonably necessary to authenticate you and
+              your request. We may retain your email address to respond to your request.
+            </li>
+            <li>If you are an adult, you can make a request on behalf of a child under your parental authority.</li>
+          </ul>
+          <h3>
+            How and when we are expected to handle your request
+          </h3>
+          <ul>
+            <li>
+              We will respond to your request without undue delay, but in all cases and at the latest within 45 days of its
+              receipt. Should we need more time, we will explain to you the reasons why, and how much more time we need. In
+              this regard, please note that we may take up to 90 days to fulfill your request.
+            </li>
+            <li>
+              Should we deny your request, we will explain to you the reasons behind our denial without undue delay, but in
+              all cases and at the latest within 45 days of receipt of the request.
+            </li>
+            <li>We do not charge a fee to respond to your request, for up to one request per year.</li>
+          </ul>
+
+          <h2 id="ppSec15">
+            Additional information about data collection and processing
+          </h2>
+          <p>
+            <strong>Legal action</strong>
+            <br></br>
+            Your personal data may be used for legal purposes by us in Court or in the stages leading to possible legal
+            action arising from improper use of this website or the related services. You declare to be aware that we may be
+            required to reveal personal data upon request of public authorities.
+          </p>
+          <p>
+            <strong>Additional information about your personal data</strong>
+            <br></br>
+            In addition to the information contained in this privacy policy, this website may provide you with additional
+            and contextual information concerning particular services or the collection and processing of personal data upon
+            request.
+          </p>
+          <p>
+            <strong>System logs and maintenance</strong>
+            <br></br>
+            For operation and maintenance purposes, this website and any third-party services may collect files that record
+            interaction with this website (System logs) or use other personal data (such as the IP Address) for this purpose.
+          </p>
+          <p>
+            <strong>Information not contained in this policy</strong>
+            <br></br>
+            More details concerning the collection or processing of personal data may be requested from us at any time.
+            Please see the contact information at the start of this document.
+          </p>
+          <p>
+            <strong>Changes to this privacy policy</strong>
+            <br></br>
+            We reserve the right to make changes to this privacy policy at any time by notifying you on this page and
+            possibly within this website and/or - as far as technically and legally feasible - sending a notice to you via
+            any contact information available to us. It is strongly recommended to check this page often, referring to the
+            date of the last modification listed at the bottom. Should the changes affect processing activities performed
+            based on your consent, we shall collect new consent from you, where required.
+          </p>
+
+          <h2 id="ppSec16">
+            Definitions and legal references
+          </h2>
+          <p>
+            <strong>Personal data (or data)</strong>
+            <br></br>
+            Any information that directly, indirectly, or in connection with other information — including a personal
+            identification number— allows for the identification or identifiability of a natural person (in other words, you).
+          </p>
+          <p>
+            <strong>Usage data</strong>
+            <br></br>
+            Usage data is information automatically collected through this website or third-party services, including your
+            IP address, browser type, operating system, time and method of requests, response status, visit duration, page
+            sequence, and device-specific details.
+          </p>
+          <p>
+            <strong>This website</strong>
+            <br></br>
+            The means by which your personal data is collected and processed.
+          </p>
+          <p>
+            <strong>Service</strong>
+            <br></br>
+            The service provided by this website as described in the Terms of Service and on this site.
+          </p>
+          <p>
+            <strong>European Union (or EU)</strong>
+            <br></br>
+            Unless otherwise specified, all references made within this document to the European Union include all current
+            member states to the European Union and the European Economic Area.
+          </p>
+          <p>
+            <strong>Cookie</strong>
+            <br></br>
+            Cookies are trackers consisting of small sets of data stored in your browser.
+          </p>
+          <p>
+            <strong>Tracker</strong>
+            <br></br>
+            Tracker indicates any technology - e.g. cookies, unique identifiers, web beacons, embedded scripts, e-tags and
+            fingerprinting - that enables the tracking of you, for example by accessing or storing information on your device.
+          </p>
+          <p>
+            <strong>Legal information</strong>
+            <br></br>
+            This privacy statement has been prepared based on provisions of multiple legislations. This privacy policy
+            relates solely to this website, if not stated otherwise within this document.
+          </p>
         </div>
       </>
     );
