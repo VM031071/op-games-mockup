@@ -1,0 +1,22 @@
+.game1RootBorder {
+  display: flex;
+  flex: 1 1 100%;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.game1RootBorder > * {
+  border: 5px solid blue;
+  display: flex;
+  flex: 1 1 100%;
+  justify-content: center;
+}
+
+.game1VideoBoxBorder {
+  flex-wrap: wrap;
+}
+.game1VideoBoxBorder > * {
+  border: 5px solid red;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+}

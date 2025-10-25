@@ -1,0 +1,20 @@
+.game1Root {
+  display: flex;
+  flex: 1 1 100%;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.game1Root > * {
+  display: flex;
+  flex: 1 1 100%;
+  justify-content: center;
+}
+
+.game1VideoBox {
+  flex-wrap: wrap;
+}
+.game1VideoBox > * {
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+}
